@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGLTemplate", "SGLTemplate\SGLTemplate.csproj", "{751D1C1B-905A-4107-9467-C9CCE006F811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGLTemplate.Web", "SGLTemplate.Web\SGLTemplate.Web.csproj", "{B68C59F5-753C-4B82-8FF5-40E423440360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallGameLib", "..\SmallGameLib\SmallGameLib.csproj", "{BBFDD0C8-1DBA-46DE-B977-9BABEF2B6A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751D1C1B-905A-4107-9467-C9CCE006F811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751D1C1B-905A-4107-9467-C9CCE006F811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751D1C1B-905A-4107-9467-C9CCE006F811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751D1C1B-905A-4107-9467-C9CCE006F811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B68C59F5-753C-4B82-8FF5-40E423440360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68C59F5-753C-4B82-8FF5-40E423440360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68C59F5-753C-4B82-8FF5-40E423440360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68C59F5-753C-4B82-8FF5-40E423440360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFDD0C8-1DBA-46DE-B977-9BABEF2B6A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFDD0C8-1DBA-46DE-B977-9BABEF2B6A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFDD0C8-1DBA-46DE-B977-9BABEF2B6A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFDD0C8-1DBA-46DE-B977-9BABEF2B6A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
